@@ -8,5 +8,6 @@ public class test {
         System.out.println("bugfix");
         System.out.println("bugfix2");
         System.out.println("master modified");
+        System.out.println("link to github");
     }
 }
